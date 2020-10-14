@@ -1,0 +1,12 @@
+user:
+  id:
+    required: true
+    type: NumberType
+    autogenerate: true
+  name:
+    required: true
+    type: TextType
+  surname:
+    required: true
+    type: TextType
+
